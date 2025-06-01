@@ -1,0 +1,6 @@
+Please explain this code: {user_input}
+Make it simple for {context} developers.
+Provide the following:
+1. Overall function purpose
+2. Line-by-line explanation
+3. Any potential improvements
