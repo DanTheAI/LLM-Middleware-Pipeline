@@ -1,5 +1,5 @@
 # LLM Pipeline: Production-Ready Middleware for LLM-Powered Systems
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![API](https://img.shields.io/badge/api-FastAPI-green)
 
