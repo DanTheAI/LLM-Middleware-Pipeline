@@ -1,5 +1,7 @@
 # LLM Pipeline: Production-Ready Middleware for LLM-Powered Systems
 
+(“This project is no longer MIT licensed. All rights reserved by the author. Commercial use requires explicit permission.”)
+
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![API](https://img.shields.io/badge/api-FastAPI-green)
 
